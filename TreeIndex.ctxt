@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TreeIndex
+comment0.text=\r\n\ Tree\ Index\ Implementation\ \r\n\r\n\ @author\ Tafita\ Rakotozandry\ &\ Taylor\ Strong\ &\ Khalid\ Al-Motaery\r\n\ @version\ 11/28/2020\r\n
+comment1.params=
+comment1.target=TreeIndex()
+comment1.text=\r\n\ Constructor\ for\ the\ TreeIndex\ class\r\n
+comment2.params=
+comment2.target=void\ createOutFile()
+comment2.text=\r\n\ Creates\ and\ writes\ the\ output\ file\ \ \r\n\ \r\n
+comment3.params=w\ k
+comment3.target=boolean\ add(java.lang.String,\ java.lang.Integer)
+comment3.text=\r\n\ Adds\ each\ word\ and\ line\ to\ the\ TreeMap\r\n\ \r\n\ @param\ w\ the\ word\ to\ enter\ into\ the\ TreeMap\r\n\ @param\ k\ the\ line\ of\ the\ word\r\n\ @return\ \ true\ or\ false\ depending\ on\ if\ the\ addition\ was\ successful\ or\ not\r\n
+numComments=4

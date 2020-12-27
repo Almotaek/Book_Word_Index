@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Entry
+comment0.text=\r\n\ This\ class\ holds\ the\ words\ and\ their\ lines\ that\ will\ be\ added\ to\ ArrayList\r\n\r\n\ @author\ Tafita\ Rakotozandry\ &\ Taylor\ Strong\ &\ Khalid\ Al-Motaery\r\n\ @version\ 11/28/2020\r\n
+comment1.params=theWord\ theLine
+comment1.target=Entry(java.lang.String,\ java.lang.Integer)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Entry\r\n
+comment2.params=newLine
+comment2.target=boolean\ addLine(java.lang.Integer)
+comment2.text=\r\n\ Adds\ a\ line\ to\ the\ word's\ TreeSet\ of\ lines\r\n\r\n\ @param\ \ newLine\ \ the\ line\ that\ is\ being\ added\ to\ the\ word's\ TreeSet\ of\ lines\r\n\ @return\ \ true\ or\ false\ based\ on\ whether\ the\ line\ addition\ was\ successful\ or\ not\r\n
+comment3.params=
+comment3.target=java.lang.String\ getWord()
+comment3.text=\r\n\ Returns\ the\ Entry's\ word\r\n\r\n\ @return\ \ the\ Entry's\ word\r\n
+comment4.params=
+comment4.target=java.util.TreeSet\ getLines()
+comment4.text=\r\n\ Returns\ the\ word's\ TreeSet\ of\ lines\r\n\r\n\ @return\ \ the\ word's\ TreeSet\ of\ lines\r\n
+numComments=5

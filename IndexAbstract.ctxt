@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=IndexAbstract
+comment0.text=\r\n\ Abstract\ plan\ implementing\ methods\ that\ the\ three\ different\ classes\ have\ in\ common\r\n\r\n\ @author\ Tafita\ Rakotozandry\ &\ Taylor\ Strong\ &\ Khalid\ Al-Motaery\r\n\ @version\ 11/28/2020\r\n
+comment1.params=
+comment1.target=void\ createOutFile()
+comment1.text=\r\n\ Writes\ all\ the\ words\ and\ their\ sets\ to\ a\ newly\ created\ output\ file\r\n
+comment2.params=w\ line
+comment2.target=boolean\ add(java.lang.String,\ java.lang.Integer)
+comment2.text=\r\n\ Adds\ the\ word\ and\ its\ line\ to\ the\ respective\ data\ structure\ being\ used\r\n\ \r\n\ @param\ line\ Integer\r\n\ @param\ w\ String\r\n\ @return\ boolean\r\n
+comment3.params=fileName
+comment3.target=void\ readFile(java.lang.String)
+comment3.text=\r\n\ Reads\ the\ file\ provided,\ splits\ the\ lines\ into\ words,\ and\ has\ each\ word\ added\ to\ the\ data\ structure\r\n\ \r\n\ @param\ fileName\ String\r\n
+comment4.params=
+comment4.target=void\ readDictionary()
+comment4.text=\r\n\ Reads\ the\ dictionary\ and\ add\ the\ words\ in\ a\ list.\ \r\n
+comment5.params=w
+comment5.target=boolean\ isEnglish(java.lang.String)
+comment5.text=\r\n\ Checks\ if\ the\ word\ is\ an\ english\ word\ \r\n\ \r\n\ @param\ w\ the\ word\ to\ check\r\n\ @return\ true\ or\ false\ based\ on\ whether\ or\ not\ the\ word\ is\ an\ English\ word\r\n
+numComments=6

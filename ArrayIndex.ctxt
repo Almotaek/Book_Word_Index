@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ArrayIndex
+comment0.text=\r\n\ Sorted\ ArrayList\ Index\ Implementation\r\n\r\n\ @author\ Tafita\ Rakotozandry\ &\ Taylor\ Strong\ &\ Khalid\ Al-Motaery\r\n\ @version\ 11/28/2020\r\n
+comment1.params=
+comment1.target=ArrayIndex()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SortedArray\r\n
+comment2.params=e1\ e2
+comment2.target=int\ compare(Entry,\ Entry)
+comment3.params=w\ k
+comment3.target=boolean\ add(java.lang.String,\ java.lang.Integer)
+comment3.text=\r\n\ Adds\ a\ word\ to\ the\ ArrayList\r\n\r\n\ @param\ \ w\ \ the\ word\ that\ is\ being\ added\ to\ the\ ArrayList\r\n\ @param\ \ k\ \ the\ line\ that\ the\ word\ is\ on\r\n\ @return\ \ true\ or\ false\ depending\ on\ if\ the\ addition\ was\ successful\ or\ not\r\n
+comment4.params=
+comment4.target=void\ createOutFile()
+comment4.text=\r\n\ Creates\ and\ writes\ the\ output\ file\ \r\n
+numComments=5

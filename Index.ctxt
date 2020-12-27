@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Index
+comment0.text=\r\n\ Index\ Interface\r\n\r\n\ @author\ Tafita\ Rakotozandry\ &\ Taylor\ Strong\ &\ Khalid\ Al-Motaery\r\n\ @version\ 11/28/2020\r\n
+comment1.params=
+comment1.target=void\ createOutFile()
+comment1.text=\r\n\ Creates\ an\ Output\ File\ \r\n
+comment2.params=w\ k
+comment2.target=boolean\ add(java.lang.String,\ java.lang.Integer)
+comment2.text=\r\n\ Adds\ a\ word\ and\ its\ respective\ line\ to\ the\ data\ structure\r\n\ \r\n\ @param\ k\ the\ line\ number\ of\ the\ word\r\n\ @param\ w\ the\ word\ to\ add\ \r\n\ @return\ boolean\r\n
+comment3.params=fileName
+comment3.target=void\ readFile(java.lang.String)
+comment3.text=\r\n\ Reads\ the\ provided\ file\ \r\n\ \r\n\ @param\ fileName\ the\ name\ of\ the\ file\ \r\n
+numComments=4
